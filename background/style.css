@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right, red, yellow);
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+}
+
+h1
+{
+    font: 600 3.5em 'raleway', san-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: uppercase;
+    width: 100%;
+}
+
+h3{
+    font: 900 1em 'raleway', san-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+
+h4{
+    font: 600 0.9em 'raleway', san-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-transform: none;
+    letter-spacing: 0.01em; 
+}
+
+#frist{
+    color: red;
+}
